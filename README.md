@@ -1,1 +1,2 @@
-# about-me
+# about-me 
+#I enjoy baking and hiking#
